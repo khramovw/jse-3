@@ -1,0 +1,19 @@
+.button-row {
+  display: flex;
+  padding: 100px 0;
+}
+button {
+  margin: auto;
+  height: 500px;
+  width: 500px;
+  font-size: 40px;
+  font-weight: 700;
+  color: red;
+  position: relative;
+}
+button p {
+  color: #3f51b5;
+}
+i {
+  position: absolute;
+}
